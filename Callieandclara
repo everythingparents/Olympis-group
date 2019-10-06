@@ -21,4 +21,10 @@ thread.start()
 
 while True:
     message = raw_input('')
-    sock.sendall(message)
+    sock.sendall(transaction_failed)
+    loop ...
+    close
+    
+    }
+  } 
+}
